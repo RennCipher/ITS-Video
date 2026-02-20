@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Large model files
+models/
+*.gguf
+*.bin
+*.pt
+*.safetensors
+
+# Generated / runtime data
+data/
+*.wav
+*.json
+
+# Videos
+*.mp4
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
